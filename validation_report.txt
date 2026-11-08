@@ -1,0 +1,14 @@
+Validation of jeffs_96_codes.json
+github.com/aruysdeperez/WheelsCode Results/FiveFac_WIRE_WHEEL_6.sage, commit 46060723751f0a24007f2a6be20a4e69e5b6309a
+
+PASS  1. exactly 96 codes  -- found 96
+PASS  1. ids are unique
+PASS  1. every code contains the empty codeword
+PASS  2. listed maximal codewords are correct, exactly 5 each
+PASS  3. every code equals its own minimal code  -- link tests decided by: {'homology': 668, 'collapse': 190}, 0 undecided
+PASS  4. no duplicates under the 720 relabelings  -- 0 duplicates
+PASS  5. all 10 Appendix A.1 codes present  -- A1->C5-001, A2->C5-003, A3->C5-004, A4->C5-005, A5->C5-006, A6->C5-007, A7->C5-008, A8->C5-009, A9->C5-010, A10->C5-011
+PASS  6. none is max-intersection-complete
+PASS  extra. connected complex using all 6 neurons
+
+RESULT: ALL CHECKS PASSED

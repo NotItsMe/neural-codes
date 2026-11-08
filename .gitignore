@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+# unpacked results bundle (the .tar.gz is the record)
+/results/
+/certificates/
+/proofs/
